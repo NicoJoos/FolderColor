@@ -43,10 +43,3 @@ FolderColor is a small macOS app I built for myself because my desktop is a mess
 - macOS may ask for permission to open an app downloaded outside the App Store.  
 - This is a small personal project, but I hope it’s useful to others too!
 
-
-
----
-
-## License
-
-MIT License — free to use and modify for personal purposes.
