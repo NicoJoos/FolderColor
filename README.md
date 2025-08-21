@@ -1,4 +1,4 @@
-![Cover](https://github.com/NicoJoos/FolderColor/blob/main/1.jpg)
+![Cover](https://github.com/NicoJoos/FolderColor/blob/main/banniere.jpg)
 
 
 
