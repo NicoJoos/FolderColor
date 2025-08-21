@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="FolderColor" src="(https://github.com/NicoJoos/FolderColor/blob/main/1.jpg)">
+ <img alt="FolderColor" src="https://github.com/NicoJoos/FolderColor/blob/main/1.jpg">
 </picture>
 
 
