@@ -52,12 +52,9 @@ Note: This is necessary only once per app; afterward, it opens normally.
 
 1. Drag a folder into the drag & drop area.  
 2. Click a color or enter a hex code.  
-3. Click **Apply** to change the folder color.  
-4. Click **Reset** to restore the default icon.
+3. Click **Apply** to change the folder color.
+   The change is not immediate: it usually takes 1 second for the colour to appear.
+5. Click **Reset** to restore the default icon.
 
----
 
-## Notes
-
-- This is a small side project, but I hope it’s useful to others too! :-)
 
