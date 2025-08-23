@@ -12,7 +12,7 @@ FolderColor is a small macOS app I built for myself because my desktop is a mess
 
 ## Requirements
 
-- macOS 11.5 or later
+- macOS 13 or later
 
 ---
 
