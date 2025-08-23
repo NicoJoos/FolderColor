@@ -59,6 +59,5 @@ Note: This is necessary only once per app; afterward, it opens normally.
 
 ## Notes
 
-- macOS may ask for permission to open an app downloaded outside the App Store.  
-- This is a small personal project, but I hope it’s useful to others too!
+- This is a small side project, but I hope it’s useful to others too! :-)
 
