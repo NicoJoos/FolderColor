@@ -12,7 +12,7 @@ FolderColor is a small macOS app I built for myself because my desktop is a mess
 
 ## Requirements
 
-- macOS 14.6 or later
+- macOS 11.5 or later
 
 ---
 
@@ -31,6 +31,16 @@ FolderColor is a small macOS app I built for myself because my desktop is a mess
 1. Unzip the file.  
 2. (Optional) Drag the app to your **Applications** folder.  
 3. Launch the app and start coloring your folders!
+
+How to open a Mac app from an unidentified developer
+	1	Right-click (or Ctrl + click) the app in Finder → select Open.
+	2	In the alert window, click Open again.
+	◦	After this, the app can be launched normally by double-clicking.
+Alternative via System Preferences:
+	1	Go to System Preferences → Security & Privacy → General.
+	2	At the bottom, click Open Anyway next to the blocked app message.
+	3	Confirm in the popup.
+Note: This is necessary only once per app; afterward, it opens normally.
 
 ---
 
